@@ -1,7 +1,9 @@
 101nitro.com
 boost-discord.com
+boostnitro.com
 cllscordapp.fun
 cpp-discord.com
+dicsord-give.com
 dicsord-nitro.com
 dicsord.net
 dirscod.com
@@ -29,6 +31,7 @@ discord-airdrop.com
 discord-app.me
 discord-app.net
 discord-claim.com
+discord-cpp.com
 discord-drop.info
 discord-free.com
 discord-game.com
@@ -61,6 +64,7 @@ discordgift.site
 discordnitro.click
 discordnitrogift.ru
 discords-nitro.xyz
+discordsteams.com
 discorid.gift
 discrod-gift.com
 discrod.gifts
@@ -74,6 +78,7 @@ dliscord.us
 dlscard.ru
 dlscorcl.info
 dlscord-app.com
+dlscord-app.info
 dlscord-nitro.click
 dlscord-nitro.link
 dlscord.app
@@ -101,4 +106,5 @@ official-nitro.fun
 steam-discords.com
 steam-dlscord.com
 steamdiscord.com
+steamdlscords.com
 steancommunity.link/category/discord
