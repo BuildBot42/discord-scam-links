@@ -30,6 +30,7 @@ discord-air.xyz
 discord-airdrop.com
 discord-app.me
 discord-app.net
+discord-app.uk
 discord-claim.com
 discord-cpp.com
 discord-drop.info
@@ -105,6 +106,7 @@ hallowen-nitro.com
 official-nitro.fun
 steam-discords.com
 steam-dlscord.com
+steamcommunity-nitro.ru
 steamdiscord.com
 steamdlscords.com
 steancommunity.link/category/discord
