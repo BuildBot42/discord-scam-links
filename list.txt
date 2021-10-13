@@ -84,6 +84,7 @@ dlscord-app.info
 dlscord-nitro.click
 dlscord-nitro.link
 dlscord.app
+dlscord.net
 dlscord.one
 dlscord.org
 dlscord.wiki
@@ -110,4 +111,5 @@ steam-dlscord.com
 steamcommunity-nitro.ru
 steamdiscord.com
 steamdlscords.com
+steamsdiscord.com
 steancommunity.link/category/discord
