@@ -24,6 +24,7 @@ discorb.ru
 discorcd.gifts
 discorcl-app.com
 discorcl.click
+discorcl.com
 discorcl.club
 discorcl.gift
 discorcl.link
@@ -32,8 +33,10 @@ discorclapp.fun
 discorclgift.com
 discord-air.xyz
 discord-airdrop.com
+discord-app.cc
 discord-app.me
 discord-app.net
+discord-app.ru
 discord-app.uk
 discord-claim.com
 discord-cpp.com
@@ -94,7 +97,9 @@ dizcord.gift
 dliscord.us
 dlscard.ru
 dlscocrdapp.com
+dlscorcl.com
 dlscorcl.info
+dlscorcl.shop
 dlscord-app.com
 dlscord-app.info
 dlscord-nitro.click
@@ -112,6 +117,8 @@ dlscordniltro.com
 dlscordnitro.com
 driscord.ru
 driscord.ru.com
+dscocrd.com
+dscord.com
 dsicord.gift
 free-nitlross.ru
 free-nitroi.ru
