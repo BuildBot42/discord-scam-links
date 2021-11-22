@@ -117,6 +117,7 @@ dlscord-app.info
 dlscord-nitro.click
 dlscord-nitro.link
 dlscord.app
+dlscord.cc
 dlscord.net
 dlscord.one
 dlscord.online
