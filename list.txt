@@ -233,6 +233,7 @@ discordgift.app
 discordgift.info
 discordgift.me
 discordgift.net.ru
+dicsordgift.one
 discordgift.org
 discordgift.ru.com
 discordgift.site
