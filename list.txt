@@ -24,6 +24,7 @@ dicsord.ru
 dicsord.space
 dicsordapp.co
 dicsordgift.com
+dicsordgift.one
 dicsordgift.xyz
 dicsordnitro.info
 dicsordnitro.store
@@ -234,7 +235,6 @@ discordgift.app
 discordgift.info
 discordgift.me
 discordgift.net.ru
-dicsordgift.one
 discordgift.org
 discordgift.ru.com
 discordgift.site
@@ -282,6 +282,9 @@ discorrd.gift
 discorrd.link
 discorrd.ru
 discorrl.com
+discrd.cc
+discrd.co
+discrd.com
 discrod-app.com
 discrod-app.ru
 discrod-app.site
@@ -300,6 +303,8 @@ discrodnitro.org
 discrodnitro.site
 discrodsteam.ru
 diskord.ru.com
+disocrd.co
+disocrd.com
 disocrd.codes
 disocrd.gifts
 disod.com
