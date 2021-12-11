@@ -585,6 +585,7 @@ dlscrocl-app.xyz
 dlscrod-app.online
 dlscrod-app.xyz
 dlscrod-gift.xyz
+dlscrod.gifts
 dlscrod.ru.com
 dlscrod.site
 dlscrod.xyz
