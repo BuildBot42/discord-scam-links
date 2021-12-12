@@ -36,8 +36,8 @@ dicsordgift.xyz
 dicsordnitro.info
 dicsordnitro.store
 dicsords.ru
-diiscord.gift
 diiscord-app.com
+diiscord.gift
 dilscord.com
 dilscordi.com
 dilscordi.org.ru
@@ -45,8 +45,10 @@ dilscordl.com
 dirscod.com
 dirscod.gift
 discapp.info
+disccord-app.club
 disccord-app.com
 disccord-apps.com
+disccord-club.com
 disccord-nitro.com
 disccord.ru
 disccord.shop
@@ -174,6 +176,7 @@ discord-event.com
 discord-event.info
 discord-free.com
 discord-free.site
+discord-full.xyz
 discord-game.com
 discord-game.ru
 discord-gift.co
@@ -214,7 +217,9 @@ discord-halloween.ru
 discord-halloween.ru.com
 discord-hallowen.ru.com
 discord-help.com
+discord-main.ru.com
 discord-netro.ru
+discord-niitro.ru
 discord-niltro.com
 discord-niltro.ru.com
 discord-nitro.click
@@ -291,6 +296,7 @@ discordevents.com
 discordf-steam.com
 discordf.gift
 discordfrnitro.site
+discordful.ru
 discordg.com.ru
 discordg.link
 discordgift.app
@@ -396,6 +402,7 @@ discrod-gifte.club
 discrod-gifte.com
 discrod-gifts.club
 discrod-gifts.com
+discrod-glft.com
 discrod-glft.xyz
 discrod-glfts.com
 discrod-nitro.fun
@@ -576,6 +583,7 @@ dlscordnitro.store
 dlscordnitros.gifts
 dlscordnitros.xyz
 dlscordnltro.ru
+dlscordrglft.xyz
 dlscordsteam.com
 dlscorld.xyz
 dlscorldnitro.store
@@ -590,7 +598,6 @@ dlscrod.ru.com
 dlscrod.site
 dlscrod.xyz
 dlscrodapp.ru
-dlscordrglft.xyz
 dlscrods-app.xyz
 dlscrods-gift.xyz
 driscord.ru
@@ -674,10 +681,3 @@ stearncommunity.link
 stearncommunity.ru
 sterncommunity.ru
 sterncommunnity.ru
-discord-full.xyz
-disccord-club.com
-discrod-glft.com
-disccord-app.club
-discord-niitro.ru
-discordful.ru
-discord-main.ru.com
