@@ -1,8 +1,10 @@
 101nitro.com
 1nitro.club
+app-discordc.com
 appnitro-discord.com
 appnitro-discord.ru.com
 asstralissteam.org.ru
+bitradebtc.com
 boost-discord.com
 boost-nitro.shop
 boostnitro.com
@@ -26,6 +28,7 @@ dicsord-gives.com
 dicsord-nitro.com
 dicsord-ticket.com
 dicsord.gifts
+dicsord.gq
 dicsord.net
 dicsord.pw
 dicsord.ru
@@ -284,6 +287,7 @@ discordapp.cc
 discordapp.chat
 discordapp.click
 discordapp.co
+discordapp.code
 discordapp.codes
 discordapp.gg
 discordapp.gifts
@@ -313,6 +317,7 @@ discordgift.app
 discordgift.info
 discordgift.me
 discordgift.net.ru
+discordgift.one
 discordgift.org
 discordgift.ru.com
 discordgift.site
@@ -364,6 +369,7 @@ discordnitrogift.ru
 discordnitrogift.space
 discordnitrogifts.ml
 discordnltro.gifts
+discordnltro.xyz
 discordpromo.com
 discordpromo.gifts
 discordpromos.com
@@ -386,6 +392,8 @@ discordsgift.xyz
 discordsteam.com
 discordsteam.ru
 discordsteams.com
+discordsteams.net
+discordsteams.org
 discordt.gift
 discordu.gift
 discorgift.xyz
@@ -400,6 +408,7 @@ discorrd.ru
 discorrl.com
 discorsd.gifts
 discort-nitro.xyz
+discortnitosteam.online
 discourd.info
 discrd.cc
 discrd.co
@@ -483,6 +492,7 @@ dllscord.online
 dllscord.site
 dlsc0rd.com
 dlscard.ru
+dlsccord-app.club
 dlsccord-app.com
 dlsccordapp.com
 dlsccrd.com
@@ -547,6 +557,7 @@ dlscord.biz
 dlscord.cc
 dlscord.cloud
 dlscord.co.uk
+dlscord.com
 dlscord.gg
 dlscord.gifts
 dlscord.help
@@ -591,6 +602,7 @@ dlscordglft.xyz
 dlscordglfts.xyz
 dlscordniltro.com
 dlscordnitro.com
+dlscordnitro.gift
 dlscordnitro.gifts
 dlscordnitro.info
 dlscordnitro.one
@@ -618,6 +630,7 @@ dlscrod.xyz
 dlscrodapp.ru
 dlscrods-app.xyz
 dlscrods-gift.xyz
+dlsordnitro.gifts
 driscord.ru
 driscord.ru.com
 ds-nitro.com
@@ -651,8 +664,10 @@ giiveaway-discord.com
 giveaway-discord.com
 glets-nitro.com
 glft-discord.com
+grabify.link
 hallowen-nitro.com
 ldiscord.gift
+lubitcoin.com
 nitro-app-store.com
 nitro-discordapp.com
 nitroappstore.com
@@ -670,13 +685,20 @@ steam-nitros.com
 steam-nitros.ru
 steam-nltro.com
 steam-nltro.ru
+steam-poweredtrades.xyz
 steamcomminuty.click
 steamcomminuty.com
 steamcomminuty.link
+steamcommmunlity.com
+steamcommrnunity.com
+steamcommunitlu.com
 steamcommunity-nitro.ru
 steamcommunity.link
 steamcommunity.live
 steamcommunuty.link
+steamcommunytiy.ru
+steamcomnumnity.com
+steamcomuniity.ru.com
 steamconmnunity.co
 steamconmunity.co
 steamdiscord.com
@@ -695,7 +717,12 @@ steancommunity.click
 steancommunity.co
 steancommunity.link
 steancommunnity.co
+steancomunnity.ru
+stearmcornmunity.ru
+stearncomminuty.ru
 stearncommunity.link
 stearncommunity.ru
 sterncommunity.ru
 sterncommunnity.ru
+tournament-predator.xyz
+twitch.rust-ltd.com
