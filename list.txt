@@ -58,6 +58,7 @@ disccordapp.live
 disccrd.gifts
 discoapps.club
 discoapps.live
+discocd.ru
 discocl.xyz
 discoclapp.pw
 discoclapp.xyz
