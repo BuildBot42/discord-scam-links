@@ -64,6 +64,7 @@ disccrd.com
 disccrd.gifts
 discoapps.club
 discoapps.live
+discocd.com
 discocl.xyz
 discoclapp.pw
 discoclapp.xyz
@@ -725,4 +726,4 @@ stearncommunity.ru
 sterncommunity.ru
 sterncommunnity.ru
 tournament-predator.xyz
-twitch.rust-ltd.com
+twitch.rust-ltd.com
