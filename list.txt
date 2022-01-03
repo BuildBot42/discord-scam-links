@@ -4,7 +4,6 @@ app-discordc.com
 appnitro-discord.com
 appnitro-discord.ru.com
 asstralissteam.org.ru
-bitradebtc.com
 boost-discord.com
 boost-nitro.shop
 boostnitro.com
@@ -302,6 +301,7 @@ discordc.gift
 discordcommunlty.com
 discordd.gift
 discorde-gift.com
+discorde-gifte.com
 discorde-nitro.xyz
 discorde.com
 discorde.gift
@@ -465,6 +465,7 @@ disordgift.com
 disordgifts.com
 disordglft.com
 disordnltros.gifts
+disordsnltros.com
 disrcod.com
 disrcod.gift
 disrcod.gifts
@@ -632,6 +633,7 @@ dlscrodapp.ru
 dlscrods-app.xyz
 dlscrods-gift.xyz
 dlsordnitro.gifts
+dlsordnltros.gifts
 driscord.ru
 driscord.ru.com
 ds-nitro.com
@@ -662,14 +664,13 @@ gave-nitro.com
 get-nitro.net
 giftdiscord.info
 giftdiscord.site
+gifte-discorde.com
 giiveaway-discord.com
 giveaway-discord.com
 glets-nitro.com
 glft-discord.com
-grabify.link
 hallowen-nitro.com
 ldiscord.gift
-lubitcoin.com
 nitro-app-store.com
 nitro-discordapp.com
 nitroappstore.com
@@ -709,6 +710,7 @@ steamdiscords.com
 steamdiscrod.ru
 steamdlscord.com
 steamdlscords.com
+steamldiscord.com
 steamnitro.com
 steamnitros.com
 steamnitros.ru
@@ -726,5 +728,3 @@ stearncommunity.link
 stearncommunity.ru
 sterncommunity.ru
 sterncommunnity.ru
-tournament-predator.xyz
-twitch.rust-ltd.com
