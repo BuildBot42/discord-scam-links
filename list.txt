@@ -265,6 +265,7 @@ discord-steam.ru
 discord-steam.site
 discord-steams.com
 discord-team.com
+discord-web.com
 discord.app
 discord.cheap
 discord.deals
