@@ -12,8 +12,6 @@ boostsnitro.shop
 cllscordapp.fun
 cpp-discord.com
 d1sc0rd.com
-discobd.com
-discoord-aps.com
 d1scord.com
 diacord.com
 diccrd.com
@@ -66,6 +64,7 @@ disccrd.com
 disccrd.gifts
 discoapps.club
 discoapps.live
+discobd.com
 discocd.com
 discocl.xyz
 discoclapp.pw
@@ -94,6 +93,7 @@ discodnitro.ru
 discond-nitro.ru
 discond.gift
 discond.ru.com
+discoord-aps.com
 discorb.blog
 discorb.co
 discorb.gift
@@ -269,6 +269,7 @@ discord-steam.ru
 discord-steam.site
 discord-steams.com
 discord-team.com
+discord-up.com
 discord-web.com
 discord.app
 discord.cheap
@@ -383,7 +384,6 @@ discordpromos.com
 discordpromos.gifts
 discordpromos.us
 discordq.com
-discord-up.com
 discordrgift.com
 discordrgift.ru
 discords-gift.com
@@ -505,13 +505,13 @@ dlsc0rd.com
 dlscard.ru
 dlsccord-app.club
 dlsccord-app.com
-dlscoord-apps.com
 dlsccordapp.com
 dlsccrd.com
 dlscocl.xyz
 dlscocrd.club
 dlscocrd.com
 dlscocrdapp.com
+dlscoord-apps.com
 dlscorcl-app.xyz
 dlscorcl.com
 dlscorcl.gift
