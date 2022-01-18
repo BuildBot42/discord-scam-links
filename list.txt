@@ -63,6 +63,7 @@ disccord.shop
 disccordapp.live
 disccrd.com
 disccrd.gifts
+disckord.gift
 discoapps.club
 discoapps.live
 discobd.com
