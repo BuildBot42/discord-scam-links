@@ -58,6 +58,7 @@ disccord-app.com
 disccord-apps.com
 disccord-club.com
 disccord-nitro.com
+disccord.com
 disccord.ru
 disccord.shop
 disccordapp.live
@@ -370,6 +371,7 @@ discordn.gift
 discordnitro.cc
 discordnitro.click
 discordnitro.co
+discordnitro.com
 discordnitro.fun
 discordnitro.info
 discordnitro.pw
