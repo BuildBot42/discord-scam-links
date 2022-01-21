@@ -64,10 +64,10 @@ disccord.shop
 disccordapp.live
 disccrd.com
 disccrd.gifts
-disckord.gift
-discerdapp.com
 discdrd.gift
+discerdapp.com
 discgrdapp.com
+disckord.gift
 discoapps.club
 discoapps.live
 discobd.com
@@ -327,7 +327,6 @@ discordfrnitro.site
 discordful.ru
 discordg.com.ru
 discordg.link
-discordglfling.xyz
 discordgift.app
 discordgift.info
 discordgift.me
@@ -353,6 +352,7 @@ discordgiftss.com
 discordgiftz.xyz
 discordgivenitro.com
 discordgivenitro.ru.com
+discordglfling.xyz
 discordglft.com
 discordglft.ru
 discordglfts.com
@@ -430,6 +430,7 @@ discourd.info
 discrd.cc
 discrd.co
 discrd.com
+discrds.gift
 discrod-app.com
 discrod-app.ru
 discrod-app.site
@@ -455,10 +456,10 @@ discrodapp.com
 discrodapp.ru
 discrodapp.site
 discrodapp.xyz
-discrode.gift
 discrode-app.com
 discrode-gift.com
 discrode-gifte.club
+discrode.gift
 discrodnitro.org
 discrodnitro.site
 discrods-app.xyz
@@ -752,4 +753,3 @@ stearncommunity.link
 stearncommunity.ru
 sterncommunity.ru
 sterncommunnity.ru
-discrds.gift
