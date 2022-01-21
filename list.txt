@@ -63,6 +63,8 @@ disccord.shop
 disccordapp.live
 disccrd.com
 disccrd.gifts
+discdrd.gift
+discgrdapp.com
 discoapps.club
 discoapps.live
 discobd.com
@@ -103,6 +105,7 @@ discorb.info
 discorb.ru
 discorb.ru.com
 discorbl.com
+discorc.gift
 discorcd-app.com
 discorcd-gift.com
 discorcd-nitro.com
