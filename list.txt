@@ -481,6 +481,7 @@ disord.gifts
 disordapp.codes
 disordapp.gift
 disordapp.gifts
+disorde.gift
 disordgift.codes
 disordgift.com
 disordgifts.com
