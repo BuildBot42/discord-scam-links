@@ -295,6 +295,7 @@ discord.moscow
 discord.ru
 discord.shop
 discord.voto
+discorx.gift
 discordapp.biz
 discordapp.cc
 discordapp.chat
@@ -722,6 +723,7 @@ steamcomminuty.link
 steamcommmunlity.com
 steamcommrnunity.com
 steamcommunitlu.com
+steamcommunitus.com
 steamcommunity-nitro.ru
 steamcommunity.link
 steamcommunity.live
