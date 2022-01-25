@@ -108,6 +108,7 @@ discond.gift
 discond.ru.com
 disconitros.com
 discoord-app.com
+discoord-apps.com
 discoord-aps.com
 discopd.com
 discorb.blog
@@ -772,7 +773,9 @@ steamconmnunity.co
 steamconmunity.co
 steamdiscord.com
 steamdiscord.ru
+steamdiscordc.com
 steamdiscordi.com
+steamdiscordp.com
 steamdiscords.com
 steamdiscrod.ru
 steamdlscord.com
