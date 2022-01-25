@@ -1,11 +1,14 @@
 import requests
 
+# A list of official URLs that could appear in the list
+official_urls = ['dis.gd', 'discord.co', 'discord.com', 'discord.design', 'discord.dev', 'discord.gg', 'discord.gift', 'discord.gifts', 'discord.media', 'discord.new', 'discord.store', 'discord.tools', 'discordapp.com', 'discordapp.net', 'discordmerch.com', 'discordpartygames.com', 'discord-activities.com', 'discordactivities.com', 'discordsays.com', 'discordstatus.com', 'airhorn.solutions', 'airhornbot.com', 'bigbeans.solutions', 'watchanimeattheoffice.com', 'discordapp.io', 'discordcdn.com', 's.team', 'steam-chat.com', 'steamchina.com', 'steamcommunity.com', 'steamcontent.com', 'steamgames.com', 'steampipe.akamaized.net', 'steampowered.com', 'steamstatic.com', 'steamusercontent.com', 'valve.net', 'valvesoftware.com']
+
 # Predefine some lists
 scam_urls = []
 complete_list = []
 
 # download latest list of domains
-url = 'https://raw.githubusercontent.com/BuyMyMojo/discord-scam-links/steam-free-nutro_ru_com/list.txt'
+url = 'https://raw.githubusercontent.com/BuildBot42/discord-scam-links/main/list.txt'
 discord_scam_list = requests.get(url).text
 scam_links_1 = discord_scam_list.split("\n")  # Turn into list
 
@@ -27,8 +30,11 @@ top_level_domains1.pop(0)  # remove the first line of text
 for TLD in top_level_domains1:
     if TLD != '':
         for base_URL in no_dupe_list:
-            full_url = base_URL + '.' + TLD
-            complete_list.append(full_url)
+            full_url = base_URL.casefold() + '.' + TLD.casefold()
+            if full_url not in official_urls:
+                complete_list.append(full_url)
+            else:
+                pass
 
 # remove any duplicates just in case and sort alphabetically
 all_scam_urls = sorted(list(dict.fromkeys(complete_list)))
