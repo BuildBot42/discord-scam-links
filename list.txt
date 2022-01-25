@@ -316,7 +316,6 @@ discord.deals
 discord.events
 discord.foundation
 discord.fun
-discord.gift
 discord.gifte.com
 discord.givaeway.com
 discord.givaewey.com
