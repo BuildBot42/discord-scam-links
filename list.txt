@@ -179,12 +179,12 @@ discord-airdrop.info
 discord-airdrop.me
 discord-airdrop.pw
 discord-alrdrop.com
-dIscord-app
 discord-app.art
 discord-app.cc
 discord-app.click
 discord-app.co
 discord-app.co.uk
+dIscord-app.com
 discord-app.gifts
 discord-app.info
 discord-app.io
@@ -365,7 +365,6 @@ discordfrnitro.site
 discordful.ru
 discordg.com.ru
 discordg.link
-discordgift.
 discordgift.app
 discordgift.info
 discordgift.me
@@ -594,6 +593,7 @@ dlscocrd.com
 dlscocrdapp.com
 dlscoord-apps.com
 dlscorcl-app.xyz
+dlscorcl-up.com
 dlscorcl.com
 dlscorcl.gift
 dlscorcl.info
@@ -696,7 +696,6 @@ dlscordgived.xyz
 dlscordglft.com
 dlscordglft.xyz
 dlscordglfts.xyz
-dlscordniltro
 dlscordniltro.com
 dlscordnitro.com
 dlscordnitro.gift
@@ -780,6 +779,7 @@ nitro.gives
 nitro.givespromotions
 nitroappstore.com
 nitrodsgiveways.com
+nitroisteam.com
 nitroos-frieie.ru
 nitrosgift.com
 official-nitro.com
@@ -841,7 +841,6 @@ stearmcornmunity.ru
 stearncomminuty.ru
 stearncommunity.link
 stearncommunity.ru
-steellsseriesgifts.com
 steelseriesnitro.com
 sterncommunity.ru
 sterncommunnity.ru
