@@ -378,7 +378,6 @@ discorb.gifts
 discorb.info
 discorb.ru
 discorb.ru.com
-discorb.ru.com/nitro
 discorbl.com
 discorc-nitro.site
 discorc.com
@@ -425,7 +424,6 @@ discorcl-nitro.site
 discorcl-nittro.ru
 discorcl.app
 discorcl.art
-discorcl.art/nitro-gift
 discorcl.click
 discorcl.club
 discorcl.com
@@ -1972,7 +1970,6 @@ diskord-app.com
 diskord.gg
 diskord.org.ru
 diskord.ru.com
-diskord.ru.com/nitro
 diskurd.com
 dislcord.com
 disnitr.com
