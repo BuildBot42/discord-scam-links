@@ -1027,7 +1027,6 @@ discord.cn.com
 discord.co.com
 discord.co.in
 discord.co.za
-discord.com
 discord.com.pl
 discord.com.ru
 discord.com.tw
@@ -1045,7 +1044,6 @@ discord.foundation
 discord.freehlp.com
 discord.fun
 discord.fyi
-discord.gg
 discord.gifte
 discord.gifte.com
 discord.givaeway.com
