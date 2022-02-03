@@ -35,6 +35,7 @@ dicord.gift
 dicord.site
 dicord.space
 dicordapp.com
+dicordgift.com
 dicordgift.ru.com
 dicordglfts.cf
 dicordglfts.ga
@@ -49,6 +50,7 @@ dicrod-app.xyz
 dicrod.com
 dicscordapp.com
 dicsocrd.com
+dicsord-airdro.com
 dicsord-airdrop.com
 dicsord-airdrop.ru
 dicsord-airdrop.ru.com
@@ -158,6 +160,7 @@ diisscord.club
 diisscord.online
 dijscord.com
 diksord.xyz
+dilcsord.ru
 dilscocd.com
 dilscocd.ru
 dilscord-gifts.com
@@ -1086,7 +1089,6 @@ discord.si
 discord.space
 discord.study
 discord.team
-discord.tools
 discord.tw
 discord.us.com
 discord.vc
@@ -1835,7 +1837,6 @@ discort-nitroo.com
 discort-nittro.com
 discort.com
 discort.site
-discorte-nitro
 discorte-nitro.com
 discorte-nitro.xyz
 discortnitosteam.online
@@ -1974,6 +1975,7 @@ diskord.ru.com
 diskurd.com
 dislcord.com
 disnitr.com
+disnitro.com
 disntro.com
 disocordapp.com
 disocr.com
@@ -2300,6 +2302,7 @@ dlscord.cam
 dlscord.cc
 dlscord.click
 dlscord.cloud
+dlscord.co
 dlscord.co.uk
 dlscord.co.vu
 dlscord.com
@@ -2308,7 +2311,9 @@ dlscord.eu
 dlscord.fr
 dlscord.gg
 dlscord.gift
+dlscord.gifte.com
 dlscord.gifts
+dlscord.glfte.com
 dlscord.help
 dlscord.in
 dlscord.info
@@ -2590,6 +2595,7 @@ gifte-discord.xyz
 gifte-discorde.com
 gifte-discorde.xyz
 gifte.com
+gifte.site
 giftes-discord.com
 giftnitropresent.ru
 giftnitros.xyz
@@ -2618,6 +2624,7 @@ go-discord.com
 hallowen-nitro.com
 hdiscord.com
 hdiscordapp.com
+hype-squad-form.com
 infodiscord-nitro.su
 into-nitro.com
 jope-nitro.com
@@ -2659,7 +2666,7 @@ nitro-discord.one
 nitro-discord.org
 nitro-discord.ru.com
 nitro-discord.xyz
-nitro-discordapp
+nitro-discordapp.xyz
 nitro-discordapp.com
 nitro-discorde.com
 nitro-discords-gift.com
@@ -2811,6 +2818,7 @@ steamdiscords.com
 steamdiscrod.ru
 steamdlscord.com
 steamdlscords.com
+steamdlscords.gift
 steamldiscord.com
 steamnitro.com
 steamnitros.com
@@ -2829,6 +2837,7 @@ stearncomminuty.ru
 stearncommunity.link
 stearncommunity.ru
 steellsseriesgifts.com
+steelseriesgifts.com
 steelseriesnitro.com
 stellseeriesnitros.com
 sterncommunity.ru
