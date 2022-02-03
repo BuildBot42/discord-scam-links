@@ -269,7 +269,6 @@ disckordapp.com
 disclord.com
 disclrd.com
 discnrd.gift
-discnrd.gift
 disco.to
 disco3d.app
 disco9rd.com
@@ -500,7 +499,7 @@ discord-app.click
 discord-app.club
 discord-app.co
 discord-app.co.uk
-dIscord-app.com
+discord-app.com
 discord-app.gift
 discord-app.gifts
 discord-app.info
@@ -1087,6 +1086,7 @@ discord.si
 discord.space
 discord.study
 discord.team
+discord.tools
 discord.tw
 discord.us.com
 discord.vc
@@ -1843,7 +1843,6 @@ discortnitostem.online
 discorx.gift
 discorxways.xyz
 discorz.gift
-discosb.gift
 discosb.gift
 discosd.com
 discosrd.com
@@ -2677,7 +2676,6 @@ nitro-free.ru
 nitro-from-steam.com
 nitro-full.com
 nitro-full.xyz
-nitro-g.xyz
 nitro-g.xyz
 nitro-gamers.fun
 nitro-get.xyz
