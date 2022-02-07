@@ -90,7 +90,6 @@ betadiscord.com
 boost-discord.com
 boost-nitro.com
 boost-nitro.shop
-boost.ink
 boostdiscorcl.shop
 boosted-nitro.com
 boostnitro.co
@@ -3391,7 +3390,6 @@ nitro-discord.one
 nitro-discord.org
 nitro-discord.ru.com
 nitro-discord.xyz
-nitro-discordapp
 nitro-discordapp.com
 nitro-discordapp.xyz
 nitro-discorde.com
