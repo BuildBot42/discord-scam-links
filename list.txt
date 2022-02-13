@@ -1,4 +1,5 @@
 101nitro.com
+discerd.gift
 1nitro.club
 2discord.ru
 academy-beta.com
@@ -363,6 +364,7 @@ disccrd.gifts
 disccrdapp.com
 discdrd.gift
 discdrdapp.ru
+discerd.gift
 discerdapp.com
 discford.com
 discgrd.com
