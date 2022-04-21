@@ -952,7 +952,6 @@ discord-acedemy.com
 discord-action.com
 discord-action.online
 discord-activate-gift.gq
-discord-activities.workers.dev
 discord-ad.com
 discord-advanced.com
 discord-air.fun
@@ -2369,7 +2368,6 @@ discordgiftssyslog.ru.com
 discordgiftsteam.ru
 discordgiftsunaisuarez.ru.com
 discordgiftsutforums.ru.com
-discordgifty.000webhostapp.com
 discordgifty.xyz
 discordgiftz.xyz
 discordgitf.xyz
@@ -4969,7 +4967,6 @@ moderation-team-exam.com
 moderation-team-form.com
 moderation-test.com
 moderation-tester.com
-moderation.formulary.dev
 moderationacademy-exams.com
 moderationhypesquad-exam.com
 moderationhypesquadevents.com
@@ -5909,7 +5906,6 @@ team-hypesquad.com
 team-hypesquadevents.com
 team-hypesquadmod.com
 team-moderator.com
-team.hypesquad-company.info
 teamdiscord.com
 teamhype-form.com
 teamhypesquad-events.com
