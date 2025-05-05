@@ -1805,7 +1805,6 @@ discord.beer
 discord.best
 discord.biz
 discord.broker
-discord.builders
 discord.buzz
 discord.camera
 discord.catering
