@@ -3894,6 +3894,7 @@ egifts-discord.gq
 egifts-premium.com
 egoiste-nitro.ru
 enable-2fa.com
+eng-ledger.io
 enter-discord-events.com
 enter-discord-moderator.com
 enter-discord.com
@@ -5725,6 +5726,7 @@ selected-thehypesquad.com
 selection-hype-squad.com
 selection-hypesquad.com
 selection-hypesquadteam.com
+setup-ledger.live
 sig-nup-hypesquad.com
 sig-nup-hypesquads.com
 signature-moderation.com
